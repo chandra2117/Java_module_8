@@ -1,13 +1,18 @@
 # Ex12 Add Elements from an Array into a TreeSet
-## DATE:
+## DATE: 06.10.2025
 ## AIM:
 To write a Java program that adds elements from an array into a TreeSet and displays the elements in sorted order.
 ## Algorithm
 1.Start the program.
+
 2.Initialize an array with integer elements.
+
 3.Create an empty TreeSet.
+
 4.Add all elements from the array into the TreeSet.
+
 5.Display the elements of the TreeSet (which are automatically sorted).
+
 6.Stop the program.  
 
 ## Program:
